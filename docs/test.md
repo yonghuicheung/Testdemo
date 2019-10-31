@@ -1,4 +1,3 @@
-![1](https://connorlin.github.io/images/avatar.jpg)
 # 一级标题
 ## 二级标题
 ### 三级标题
@@ -49,19 +48,21 @@
 
 ~~删除文本~~
 
-这是行内式链接：[ConnorLin's Blog](http://connorlin.github.io)。
+这是行内式链接：[Github Website](https://github.com)。
 
-这是参考式链接：[ConnorLin's Blog][url]，其中url为链接标记，可置于文中任意位置。
+这是参考式链接：[Github Website][url]，其中url为链接标记，可置于文中任意位置。
 
-[url]: http://connorlin.github.io/ "ConnorLin's Blog"
+[url]: https://github.com/fluidicon.png "Github Website"
 
 链接标记格式为：[链接标记文本]:  链接地址  链接title(可忽略)
 
-这是自动链接：直接使用`<>`括起来<http://connorlin.github.io>
+这是自动链接：直接使用`<>`括起来<https://github.com>
+
+直接显示图片：![1](https://github.com/fluidicon.png)
 
 这是图片：![][avatar]
 
-[avatar]: https://connorlin.github.io/images/avatar.jpg
+[avatar]: https://github.com/fluidicon.png
 这是行内代码`onCreate(Bundle savedInstanceState)`的例子。
 
 这是代码块和语法高亮：
